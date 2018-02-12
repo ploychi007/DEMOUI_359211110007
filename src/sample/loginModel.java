@@ -46,4 +46,4 @@ public class loginModel {
                     rs.close();
                 }
     }
-}//loginModel
+}///loginModel
